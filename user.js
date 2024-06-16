@@ -1,1 +1,2 @@
-var name = 'joh due'
+var name = 'john due'
+
